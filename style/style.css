@@ -203,7 +203,24 @@ font-size: 56px ;
     border: none;
     margin-top: 32px;
     font-size: 18px;
+    
+
 }
+.hover-text {
+    color: rgb(255, 252, 252);
+    transition: color 0.3s ease;
+}
+.hover-text2{
+    color: rgb(0, 0, 0);
+    transition: color 0.3s ease;
+}
+.hover-text2:hover {
+    color: red;
+}
+.hover-text:hover {
+    color: red;
+}
+
 
 .lest5{
     max-width: 1140px;
