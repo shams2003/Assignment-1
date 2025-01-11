@@ -1,0 +1,252 @@
+
+
+.pic{
+    background-color: #C6E4D6;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 64px;
+    padding: 80px 100px 80px 80px; 
+    border-radius:24px;
+    width: 1360px;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.title{
+font-size: 56px ;
+}
+.subtitle{
+    color: #0E0E0E;
+    opacity: 50%;
+    
+}
+.name{
+    width: 550px;
+    gap: 80px;
+}
+.btn{
+    background-color: #006A50;
+    border: none;
+    color: white;
+    width:270px;
+    height: 56px ;
+    border-radius: 8px;
+    font-size: 18px;
+}
+.img1{
+    width: 470px;
+    height: 400px;
+}
+.Future{
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.card{
+    display: flex;
+    gap: 24px;
+}
+.card1{
+    background-color: #9ab4e1;
+    width: 410px;
+    height: auto;
+    border-radius: 16px;
+    padding: 32px;
+    padding-right: 32px;
+    gap: 50px;
+
+}
+.btn2{
+    width: 122px;
+    height: 41px;
+    background-color:#5490F5 ;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.card2{
+    background-color: #C6E4D6;
+    width: 410px;
+    height: auto;
+    border-radius: 16px;
+    padding: 32px;
+    padding-right: 32px;
+    gap: 50px;
+
+}
+.btn4{
+    width: 122px;
+    height: 41px;
+    background-color:#09A15C ;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.card3{
+    background-color: #F7EBCF;
+    width: 410px;
+    height: auto;
+    border-radius: 16px;
+    padding: 32px;
+    padding-right: 32px;
+    gap: 50px;
+
+}
+.btn3{
+    width: 122px;
+    height: 41px;
+    background-color:#FFC239 ;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.Dr{
+    border: solid #0E0E0E ;
+    margin-top: 32px;
+    border-radius: 16px ;
+    padding: 48px 24px 48px 24px ;
+    background-image: url('../assets/quote-bg.png');
+    background-repeat: no-repeat;
+    background-position:  ;
+}
+.img6{
+    border-radius: 24px;
+}
+.news{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+.pard{
+    display: flex;
+    gap: 32px;
+    background-color: #f9f4f4f7;
+    border-radius: 24px;
+    padding: 48px;
+    
+}
+.linr{
+    display:flex;
+    align-items: center;
+    gap: 10px;
+    color: #0E0E0E;
+    opacity: 70%;
+}
+.p{
+    color: #0E0E0E;
+    opacity: 70%;
+}
+.btn6{
+    background-color: #006A50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 139px;
+    height: 48px;
+}
+.pard-mani{
+    gap: 50px;
+}
+.lest1{
+    max-width: 1140px;
+    margin: 0 auto;
+    justify-items: center;
+
+}
+.p5{
+    font-size: 16px;
+   text-align: center;
+   color: #0E0E0E;
+   opacity: 70%;
+}
+.box1{
+    width: 240px;
+    height: auto;
+    justify-items: center;
+    background-color: rgb(251, 251, 251);
+    stroke: 15px;
+    border: solid black 1px;
+    padding: 10px;
+    border-radius: 16px;
+}
+.box{
+    display: flex;
+    gap: 24px;
+}
+.box2{
+    width: 240px;
+    height: auto;
+    justify-items: center;
+    background-color: #C6E4D6;
+    stroke: 15px;
+    border: solid black 1px;
+    padding: 10px;
+    border-radius: 16px;
+}
+.input{
+    margin-top: 32px;
+}
+.text2{
+    width: 1032px;
+    height: 64px;
+    border: none;
+    background-color: rgb(247, 243, 237);
+    text-align: center;
+    font-size: 20px ;
+}
+.btn7{
+    background-color: #006A50;
+    width: 151px;
+    height: 56px;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-top: 32px;
+    font-size: 18px;
+}
+
+.lest5{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 35px;
+    justify-items: center;
+    background-color: #C6E4D6;
+    width: 1280px;
+    height: 300px;
+    border-radius: 24px;
+    padding: 80px 100px 80px 100px;
+    
+}
+.text3{
+    width: 1032px;
+    height: 56px;
+    border: none;
+    background-color: white;
+    font-size: 20px ;
+   
+}
+.btn11{
+    background-color: #006A50;
+    width: 150px;
+    height: 56px;
+    color: white;
+    border: none;
+    
+}
+.input{
+    display: flex;
+}
+.line10{
+    font-size: 40px;
+}
+.line11{
+    font-size: 30px;
+    text-align: center;
+    opacity: 70%;
+}
+.hmm{
+
+    text-align: center;
+    font-size: 16px;
+    opacity: 70%;
+}
